@@ -1,1 +1,1 @@
-# alura-oracle-next-education
+# Repositório para o curso Oracle Next Education | Alura + Oracle
